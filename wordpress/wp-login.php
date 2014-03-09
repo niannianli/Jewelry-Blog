@@ -1,5 +1,6 @@
 <?php
 /**
+ * test GitHub update
  * WordPress User Page
  *
  * Handles authentication, registering, resetting passwords, forgot password,
