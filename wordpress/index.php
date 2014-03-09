@@ -11,6 +11,11 @@
  *
  * @var bool
  */
+ 
+ /*
+ test to update github
+ */
+ 
 define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
